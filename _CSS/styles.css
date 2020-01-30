@@ -1,0 +1,31 @@
+/*==================== Tag Styles ====================*/
+
+/*=================== Class Styles ===================*/
+.copyright{
+    color: #eaf6f6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+
+.imgfooterlink{
+    width: 3%;
+}
+
+.local-brand{
+    margin: 0;
+}
+
+.headerlogo{
+    width: 30%;
+}
+
+.bg-cactus{
+    background-color: #7B6825;
+    font-size: 2rem;
+}
+
+.sitefooter{
+    background: #66bfbf;
+    padding: 50px 0 20px;
+}
+/*==================== ID Styles ====================*/

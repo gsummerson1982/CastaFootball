@@ -1,0 +1,5 @@
+
+- Website colours
+#7B6825 - Logo Text colour
+#AD9B3E - logo bg color
+#DED4A6 - logo forecolor
